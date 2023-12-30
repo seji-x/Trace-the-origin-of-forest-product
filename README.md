@@ -41,14 +41,8 @@ zcxzxczx
 
 ### Video 
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=rflvMoBPebQ">
-    <img src="https://images.unsplash.com/photo-1502252430442-aac78f397426?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluZSUyMGZvcmVzdHxlbnwwfHwwfHx8MA%3D%3D" alt="Alt text for your video" width="480" height="360">
-  </a>
-</div>
+[Video Demo](https://www.youtube.com/watch?v=rflvMoBPebQ)
 
-<p align="center"><em>Click on the image to watch the video</em></p>
-<p align="center">Your additional notes or description here.</p>
 
 
 Hướng dẫn và quy tắc để đóng góp vào dự án.

@@ -21,16 +21,16 @@ Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và
 
 ## Thông tin thành viên
 >### 1 Nguyễn Thái Dương 
-   - **ID:** Mã ID 2051220053
-   - **Lớp:** Member - 20CT2
+   >- **ID:** Mã ID 2051220053
+   >- **Lớp:** Member - 20CT2
 
-### 2. Nguyễn Hoàng Linh 
-   - **ID:** Mã ID 2051220165
-   - **Lớp:** Leader - 20CT2
+>### 2. Nguyễn Hoàng Linh 
+   >- **ID:** Mã ID 2051220165
+   >- **Lớp:** Leader - 20CT2
 
-### 3. Tên Thành Viên 
-   - **ID:** Mã ID 2051220094
-   - **Lớp:** Member - 20CT2
+>### 3. Tên Thành Viên 
+   >- **ID:** Mã ID 2051220094
+   >- **Lớp:** Member - 20CT2
 
 ## Cách Sử Dụng
 

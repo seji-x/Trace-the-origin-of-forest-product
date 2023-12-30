@@ -1,7 +1,5 @@
 # Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
 
-Đây là dự án cơ bản sử dụng công nghệ BlockChain với mục đích truy xuất nguồn gốc lâm sản phục vụ cho việc định danh và đảm bảo tín minh bạch quyền sở hữu lầm sản ( gỗ ).
-
 ## Mục Lục
 
 1. [Giới Thiệu](#giới-thiệu)
@@ -15,9 +13,11 @@
 
 ## Giới Thiệu
 
-Miêu tả chi tiết về dự án, mục tiêu và ý nghĩa của nó.
+Dự án này đặt ra một cơ sở thông qua việc ứng dụng công nghệ Blockchain. Mục tiêu chính của Nhóm là tạo ra một hệ thống giúp truy xuất nguồn gốc của lâm sản, đặc biệt là đối với lĩnh vực gỗ. Việc này không chỉ giúp xác định nguồn gốc một cách chính xác mà còn đảm bảo tính minh bạch và quyền sở hữu của chuỗi cung ứng.
 
-## Hướng Dẫn Cài Đặt
+Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và quản lý nguồn lâm sản đang trở thành ngày càng quan trọng, dự án của nhóm không chỉ là một nỗ lực trong việc ứng dụng công nghệ mới mẻ mà còn là sự đóng góp xã hội. Nhóm hy vọng rằng việc xây dựng một hệ thống như vậy sẽ không chỉ giúp doanh nghiệp và người tiêu dùng trong việc theo dõi nguồn gốc của sản phẩm mà còn góp phần vào việc bảo vệ môi trường và phát triển cộng đồng.
+
+## Tổng Quan
 
 Hướng dẫn cài đặt dự án trên máy tính cá nhân hoặc môi trường phát triển.
 

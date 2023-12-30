@@ -1,0 +1,164 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block banner_slider %}
+    <div id="carouselExampleCaptions" class="carousel slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="{% static 'app/images/gothong.jpg' %}" class="d-block w-100" alt="Gỗ Thông" height='600'>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Gỗ Thông</h5>
+                    <p>Gỗ thông là một trong những loại gỗ quan trọng và phổ biến, được sử dụng rộng rãi trong nhiều ứng
+                        dụng khác nhau.</p>
+                </div>
+            </div>
+            <div class="carousel-item active">
+                <img src="{% static 'app/images/bg3.jpg' %}" class="d-block w-100" alt="Gỗ Óc Chó" height='600'>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Gỗ Óc Chó</h5>
+                    <p>Gỗ óc chó, hay còn được gọi là gỗ Acacia mangium, là một loại gỗ quan trọng và phổ biến</p>
+                </div>
+            </div>
+
+            <div class="carousel-item active">
+                <img src="{% static 'app/images/bg2.jpg' %}" class="d-block w-100" alt="Gỗ Sồi" height='600'>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Gỗ Sồi</h5>
+                    <p>Gỗ Sồi là một trong những loại gỗ quan trọng và phổ biến, được sử dụng rộng rãi trong nhiều ứng
+                        dụng khác nhau.</p>
+                </div>
+            </div>
+
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+                data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+                data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+{% endblock banner_slider %}
+
+
+{% block main-content %}
+    <style>
+        /* Định nghĩa kiểu CSS cho các ảnh và div chứa nó */
+        .thumbnail-container {
+            position: relative;
+            margin-bottom: 20px;
+            margin-top: 20px; /* Thêm margin phía trên */
+        }
+
+        .thumbnail {
+            width: 100%;
+            height: auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Tạo bóng nền */
+        }
+
+        .box-element {
+            padding: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: -10px; /* Duy trì khoảng cách giữa box và ảnh */
+        }
+
+        /* Thêm các kiểu CSS của Bootstrap cho lưới và các cột */
+        .row {
+            margin: 0 -15px;
+        }
+
+        .col-lg-3 {
+            padding: 0 15px;
+        }
+    </style>
+    </head>
+    <body>
+
+    <div class="container">
+        <div class="row">
+            <!-- Cột lớn 3 chứa ảnh thứ nhất -->
+            {% for product in products %}
+                
+                <div class="col-lg-3">
+                    <div class="thumbnail-container">
+                        <img class="thumbnail" src="{% static 'app/images/gomun.png' %}">
+                        <div class="box-element product">
+                            <h6><strong> {{ product.name }} </strong></h6>
+                            <hr>
+                            {% if product.product_type > 1 %}
+                            <p> gỗ đã qua gia công </p>
+                            {% else %}
+                            <p> gỗ thô</p>
+                            {% endif %}
+                            <a class="btn btn-outline-secondary add-btn " href="traceability/{{ product.id }}">  Tra Cứu</a>
+                            <a class="btn btn-outline-success" href="wood/read/{{ product.id }}">Xem Thông Tin Gỗ</a>
+                            <h2 style="display: inline-block; float: right"><strong> </strong></h2>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+
+
+        </div>
+    </div>
+{% endblock %}
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .horizontal-line {
+        width: 100%;
+        height: 2px;
+        background-color: #000; /* Màu của đoạn cắt ngang */
+        margin: 20px 0; /* Khoảng cách trên và dưới đoạn cắt ngang */
+    }
+</style>
+</head>
+<body>
+
+<!-- Phần nội dung trang web -->
+
+<div class="horizontal-line"></div>
+
+<!-- Phần nội dung tiếp theo trang web -->
+
+</body>
+
+{% block line-content %}
+    <div id="carouselExampleFade" class="carousel slide carousel-fade">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="{% static 'app/images/gg.png' %}" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="{% static 'app/images/gg.png' %}" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="{% static 'app/images/gg.png' %}" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+{% endblock line-content %}
+

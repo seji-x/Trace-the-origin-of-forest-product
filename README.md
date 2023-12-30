@@ -1,4 +1,4 @@
-# Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
+![z5024595717183_5df30ef254811615fb610289f224e3f0](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/667d22e7-ad0c-48ca-be0f-69da7cc0d665)# Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
 
 ***
 
@@ -8,7 +8,7 @@
 2. [Thông tin thành viên](#Thông-tin-thành-viên)
 3. [Cách Sử Dụng](#cách-sử-dụng)
 4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
-5. [Đóng Góp](#đóng-góp)
+5. [Demo](#Demo)
 6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)
 
 ***
@@ -20,13 +20,13 @@ Dự án này đặt ra một cơ sở thông qua việc ứng dụng công ngh�
 Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và quản lý nguồn lâm sản đang trở thành ngày càng quan trọng, dự án của nhóm không chỉ là một nỗ lực trong việc ứng dụng công nghệ mới mẻ mà còn là sự đóng góp xã hội. Nhóm hy vọng rằng việc xây dựng một hệ thống như vậy sẽ không chỉ giúp doanh nghiệp và người tiêu dùng trong việc theo dõi nguồn gốc của sản phẩm mà còn góp phần vào việc bảo vệ môi trường và phát triển cộng đồng.
 
 ## Thông tin thành viên
-Nguyễn Thái Dương 
+- Nguyễn Thái Dương 
    >- **ID:** Mã ID 2051220053
    >- **:** Member - 20CT2
-Nguyễn Hoàng Linh 
+- Nguyễn Hoàng Linh 
    >- **ID:** Mã ID 2051220165
    >- **Lớp:** Leader - 20CT2
-Tên Thành Viên 
+- Tên Thành Viên 
    >- **ID:** Mã ID 2051220094
    >- **Lớp:** Member - 20CT2
 
@@ -34,19 +34,17 @@ Tên Thành Viên
 
 Hướng dẫn sử dụng dự án và các chức năng cụ thể.
 
-### Chức Năng 1
-
-Hướng dẫn và ví dụ cách sử dụng chức năng 1.
-
-### Chức Năng 2
-
-Hướng dẫn và ví dụ cách sử dụng chức năng 2.
-
 ## Cài Đặt Môi Trường
 
 Chi tiết về các yêu cầu môi trường, phiên bản Python, thư viện và công cụ cần thiết.
 
-## Đóng Góp
+## Demo 
+<p align="center">
+  <img src="![z5024595717183_5df30ef254811615fb610289f224e3f0](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/2a9d3d37-63ca-4456-a10d-e2d80e544c8e)
+" alt="Trang chủ" width="200">
+</p>
+<p align="center">Trang chủ</p>
+
 
 Hướng dẫn và quy tắc để đóng góp vào dự án.
 

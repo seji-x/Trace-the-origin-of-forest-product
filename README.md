@@ -38,7 +38,7 @@
    > **ID:** Mã ID 2051220165
    > **Role:** Leader - 20CT2
 - [ Phan Thị Việt Nga ](https://github.com/ptvnga)
-   > **ID:** Mã ID 2051220094
+   > **ID:** Mã ID 2051220091
    > **Role:** Member - 20CT2
 
 

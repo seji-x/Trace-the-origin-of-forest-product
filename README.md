@@ -1,5 +1,7 @@
 # Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
 
+***
+
 ## Mục Lục
 
 1. [Giới Thiệu](#giới-thiệu)
@@ -10,6 +12,8 @@
 4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
 5. [Đóng Góp](#đóng-góp)
 6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)
+
+***
 
 ## Giới Thiệu
 

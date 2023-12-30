@@ -2,17 +2,6 @@
 
 ***
 
-## Mục Lục
-
-1. [Giới Thiệu](#giới-thiệu)
-2. [Thông tin thành viên](#Thông-tin-thành-viên)
-3. [Cách Sử Dụng](#cách-sử-dụng)
-4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
-5. [Demo](#Demo-Giao-Diện)
-6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)
-
-***
-
 ## Giới Thiệu
 
 Dự án này đặt ra một cơ sở thông qua việc ứng dụng công nghệ Blockchain. Mục tiêu chính của Nhóm là tạo ra một hệ thống giúp truy xuất nguồn gốc của lâm sản, đặc biệt là đối với lĩnh vực gỗ. Việc này không chỉ giúp xác định nguồn gốc một cách chính xác mà còn đảm bảo tính minh bạch và quyền sở hữu của chuỗi cung ứng.
@@ -53,3 +42,14 @@ Hướng dẫn và quy tắc để đóng góp vào dự án.
 
 Thông tin về bản quyền và giấy phép sử dụng của dự án.
 
+
+***
+
+## Mục Lục
+
+1. [Giới Thiệu](#giới-thiệu)
+2. [Thông tin thành viên](#Thông-tin-thành-viên)
+3. [Cách Sử Dụng](#cách-sử-dụng)
+4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
+5. [Demo](#Demo-Giao-Diện)
+6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)

@@ -19,14 +19,14 @@
 
 ## 2 Thông tin thành viên
 - [ Nguyễn Thái Dương ](https://github.com/ddryuu)
-   >- **ID:** Mã ID 2051220053
-   >- **Role:** Member - 20CT2
+   > **ID:** Mã ID 2051220053
+   > **Role:** Member - 20CT2
 - [ Nguyễn Hoàng Linh ](https://github.com/hoanglinh-wieee)
-   >- **ID:** Mã ID 2051220165
-   >- **Role:** Leader - 20CT2
+   > **ID:** Mã ID 2051220165
+   > **Role:** Leader - 20CT2
 - [ Phan Thị Việt Nga ](https://github.com/ptvnga)
-   >- **ID:** Mã ID 2051220094
-   >- **Role:** Member - 20CT2
+   > **ID:** Mã ID 2051220094
+   > **Role:** Member - 20CT2
 
 
 
@@ -117,6 +117,7 @@ if __name__ == "__main__":
                 </div>
 ```
 - [Đưa dữ liệu thông tin](https://github.com/ddryuu/Trace-the-origin-of-forest-product/blob/main/app/template/about.html)
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -172,7 +173,9 @@ if __name__ == "__main__":
 ### 3 Environment
 - [Framework](https://www.djangoproject.com/)
 - [Blockchain](https://www.blockchain.com/)
-
+- [Metamask](https://metamask.io/)
+- [Tutorial](https://www.djangoproject.com/start/)
+  
 ***
 
 ## Mục Lục

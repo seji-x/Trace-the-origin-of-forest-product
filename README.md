@@ -8,7 +8,7 @@
 2. [Thông tin thành viên](#Thông-tin-thành-viên)
 3. [Cách Sử Dụng](#cách-sử-dụng)
 4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
-5. [Demo](#Demo)
+5. [Demo](#Demo-Giao-Diện)
 6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)
 
 ***
@@ -25,12 +25,12 @@ Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và
    >- **:** Member - 20CT2
 - Nguyễn Hoàng Linh 
    >- **ID:** Mã ID 2051220165
-   >- **Lớp:** Leader - 20CT2
+   >- **:** Leader - 20CT2
 - Tên Thành Viên 
    >- **ID:** Mã ID 2051220094
-   >- **Lớp:** Member - 20CT2
+   >- **:** Member - 20CT2
 
-## Cách Sử Dụng
+## 
 
 Hướng dẫn sử dụng dự án và các chức năng cụ thể.
 
@@ -38,7 +38,7 @@ Hướng dẫn sử dụng dự án và các chức năng cụ thể.
 
 Chi tiết về các yêu cầu môi trường, phiên bản Python, thư viện và công cụ cần thiết.
 
-## Demo 
+## Demo Giao Diện
 
 <p align="center">
   <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a" alt="Trang chủ" width="900">

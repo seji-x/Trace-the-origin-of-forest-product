@@ -183,8 +183,8 @@ if __name__ == "__main__":
         </tr>
     {% endfor %}
 ```
-### 3 Other 
-- [backup source code]([https://www.djangoproject.com/](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/extra/weblamsan)
+### 3 Orther
+- [backup source code](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/extra/weblamsan)
 ### 4 Environment
 - [Framework](https://www.djangoproject.com/)
 - [Blockchain](https://www.blockchain.com/)

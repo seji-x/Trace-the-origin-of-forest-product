@@ -192,4 +192,4 @@ if __name__ == "__main__":
 - [Tutorial](https://www.djangoproject.com/start/)
 - [Python](https://www.python.org/)
 ***
-
+### Thanks!!

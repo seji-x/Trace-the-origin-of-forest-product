@@ -45,6 +45,7 @@
 
 ## 4 Giao diện 
 
+- [Static/App](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/static/app)
 
 
 ## Bản Quyền và Giấy Phép

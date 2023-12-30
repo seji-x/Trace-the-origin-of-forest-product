@@ -29,6 +29,7 @@
    >- **:** Member - 20CT2
 
 
+
 ***
 
 ## 3 Demo 
@@ -39,10 +40,10 @@
 </p>
 <p align="center">Trang chủ</p>
 <p align="center">
-  <img src="![image](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/5f145124-46e2-4faa-833e-b1947db23a0b)
+  <img src="![vvvvvv](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/b6e969cc-9080-49c2-9ee1-b66bf04264f2)
 " alt="Trang chủ" width="900">
 </p>
-<p align="center">Trang chủ</p>
+<p align="center">Đăng nhập</p>
 
 [Click here to watch the topic via video](https://www.youtube.com/watch?v=rflvMoBPebQ)
 

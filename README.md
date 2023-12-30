@@ -18,15 +18,15 @@
 
 
 ## 2 Thông tin thành viên
-- Nguyễn Thái Dương 
+- [ Nguyễn Thái Dương ](https://github.com/ddryuu)
    >- **ID:** Mã ID 2051220053
-   >- **:** Member - 20CT2
-- Nguyễn Hoàng Linh 
+   >- **Role:** Member - 20CT2
+- [ Nguyễn Hoàng Linh ](https://github.com/hoanglinh-wieee)
    >- **ID:** Mã ID 2051220165
-   >- **:** Leader - 20CT2
-- Tên Thành Viên 
+   >- **Role:** Leader - 20CT2
+- [ Phan Thị Việt Nga ](https://github.com/ptvnga)
    >- **ID:** Mã ID 2051220094
-   >- **:** Member - 20CT2
+   >- **Role:** Member - 20CT2
 
 
 
@@ -36,21 +36,34 @@
 ### Hình ảnh 
 
 <p align="center">
-  <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a" alt="Trang chủ" width="900">
+  <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a" alt="Trang chủ" width="700">
 </p>
 <p align="center">Trang chủ</p>
 
+### Kết nối
 <p align="center">
-  <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/b6e969cc-9080-49c2-9ee1-b66bf04264f2[vvvvvv](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/70fb844d-c0a4-4895-9b75-17df096a77a4)
-" alt="Trang chủ" width="900">
+  <img width="700" height="350" src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/934fb03b-917a-45d9-a6c5-80efc4ad954e" alt="Mô tả ảnh">
 </p>
-<p align="center">Đăng nhập</p>
 
-[Click here to watch the topic via video](https://www.youtube.com/watch?v=rflvMoBPebQ)
+<p align="center">kết nối</p>
+
+### Giao Diện
+<p align="center">
+  <img width="700" height="320" src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/0e39ce5f-e198-40d6-a312-7e23447b783c" alt="Mô tả ảnh">
+</p>
+
+<p align="center">giao diện</p>
+
+### Video demo
+
+[Video demo tại đây](https://www.youtube.com/watch?v=rflvMoBPebQ&t=1s)
+
+
+
 
 ***
 
-## Deploy source code
+## 4 Deploy source code
 ### 1 Giao diện 
 - [Static/App](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/static/app)
 - [templates](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/template)
@@ -141,19 +154,37 @@ if __name__ == "__main__":
 </body>
 </html>
 ```
+- [Đưa dữ liệu thông truy xuất](https://github.com/ddryuu/Trace-the-origin-of-forest-product/blob/main/app/template/ttraceability.html)
+```
+ {% for item in info %}
 
-## Bản Quyền và Giấy Phép
-
-Thông tin về bản quyền và giấy phép sử dụng của dự án.
-
+        <tr>
+            <td>
+                {{ item.product.name }}
+            </td>
+            <td>
+                {{ item.actor.name }}
+            </td>
+        
+        </tr>
+    {% endfor %}
+```
+### 3 Environment
+- [Framework](https://www.djangoproject.com/)
+- [Blockchain](https://www.blockchain.com/)
 
 ***
 
 ## Mục Lục
-
-1. [Giới Thiệu](#giới-thiệu)
-2. [Thông tin thành viên](#Thông-tin-thành-viên)
-3. [Cách Sử Dụng](#cách-sử-dụng)
-4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
-5. [Demo](#Demo-Giao-Diện)
-6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)
+1. [Giới Thiệu](#1-giới-thiệu)
+2. [Thông Tin Thành Viên](#2-thông-tin-thành-viên)
+3. [Demo](#3-demo)
+   - [Hình ảnh](#hình-ảnh)
+   - [Kết nối](#kết-nối)
+   - [Giao Diện](#giao-diện)
+   - [Video Demo](#video-demo)
+4. [Deploy Source Code](#4-deploy-source-code)
+   - [Giao diện](#1-giao-diện)
+   - [Luồng dữ liệu](#2-luồng-dữ-liệu)
+   - [Environment](#3-environment)
+5. [Mục Lục](#mục-lục)

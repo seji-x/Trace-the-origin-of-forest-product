@@ -28,31 +28,22 @@
    >- **ID:** Mã ID 2051220094
    >- **:** Member - 20CT2
 
-***
-
-## 3 Tổng quan 
-zcxzxczx
-
-
-## 5 Luồng dữ liệu
-
 
 ***
 
-
-
-## Demo Giao Diện
+## 3 Demo 
 ### Hình ảnh 
 
 <p align="center">
   <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a" alt="Trang chủ" width="900">
 </p>
 <p align="center">Trang chủ</p>
+
 [Click here to watch the topic via video](https://www.youtube.com/watch?v=rflvMoBPebQ)
 
-
-
 ***
+
+## 4 Giao diện 
 
 
 

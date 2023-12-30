@@ -13,7 +13,7 @@
    - [Giao diện](#1-giao-diện)
    - [Luồng dữ liệu](#2-luồng-dữ-liệu)
    - [Environment](#3-environment)
-5. [Mục Lục](#mục-lục)
+
 ***
 
 ## 1 Giới Thiệu

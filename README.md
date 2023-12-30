@@ -1,4 +1,4 @@
-![z5024595717183_5df30ef254811615fb610289f224e3f0](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/667d22e7-ad0c-48ca-be0f-69da7cc0d665)# Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
+# Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
 
 ***
 
@@ -39,6 +39,7 @@ Hướng dẫn sử dụng dự án và các chức năng cụ thể.
 Chi tiết về các yêu cầu môi trường, phiên bản Python, thư viện và công cụ cần thiết.
 
 ## Demo 
+
 <p align="center">
   <img src="![vc](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a)" alt="Trang chủ" width="200">
 </p>

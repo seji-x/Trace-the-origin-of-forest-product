@@ -18,12 +18,17 @@ Dự án này đặt ra một cơ sở thông qua việc ứng dụng công ngh�
 Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và quản lý nguồn lâm sản đang trở thành ngày càng quan trọng, dự án của nhóm không chỉ là một nỗ lực trong việc ứng dụng công nghệ mới mẻ mà còn là sự đóng góp xã hội. Nhóm hy vọng rằng việc xây dựng một hệ thống như vậy sẽ không chỉ giúp doanh nghiệp và người tiêu dùng trong việc theo dõi nguồn gốc của sản phẩm mà còn góp phần vào việc bảo vệ môi trường và phát triển cộng đồng.
 
 ## Thông tin thành viên
+### 1. [Nguyễn Thái Dương 1](#)
+   - **ID:** Mã ID 2051220053
+   - **Lớp:** Member - 20CT2
 
-1. Nguyễn Thái Dương
-   
-2. Nguyễn Hoàng Linh
- 
-3. Phan Thị Việt Nga
+### 2. [Nguyễn Hoàng Linh 2](#)
+   - **ID:** Mã ID 2051220165
+   - **Lớp:** Leader - 20CT2
+
+### 3. [Tên Thành Viên 3](#)
+   - **ID:** Mã ID 2051220094
+   - **Lớp:** Member - 20CT2
 
 ## Cách Sử Dụng
 

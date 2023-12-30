@@ -1,14 +1,16 @@
-# Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
+# 1 Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
 
 ***
 
-## Giới Thiệu
+## 2 Giới Thiệu
 
 Dự án này đặt ra một cơ sở thông qua việc ứng dụng công nghệ Blockchain. Mục tiêu chính của Nhóm là tạo ra một hệ thống giúp truy xuất nguồn gốc của lâm sản, đặc biệt là đối với lĩnh vực gỗ. Việc này không chỉ giúp xác định nguồn gốc một cách chính xác mà còn đảm bảo tính minh bạch và quyền sở hữu của chuỗi cung ứng.
 
 Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và quản lý nguồn lâm sản đang trở thành ngày càng quan trọng, dự án của nhóm không chỉ là một nỗ lực trong việc ứng dụng công nghệ mới mẻ mà còn là sự đóng góp xã hội. Nhóm hy vọng rằng việc xây dựng một hệ thống như vậy sẽ không chỉ giúp doanh nghiệp và người tiêu dùng trong việc theo dõi nguồn gốc của sản phẩm mà còn góp phần vào việc bảo vệ môi trường và phát triển cộng đồng.
 
-## Thông tin thành viên
+---
+
+## 3 Thông tin thành viên
 - Nguyễn Thái Dương 
    >- **ID:** Mã ID 2051220053
    >- **:** Member - 20CT2
@@ -19,13 +21,13 @@ Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và
    >- **ID:** Mã ID 2051220094
    >- **:** Member - 20CT2
 
-## 
+## 4 Tổng quan 
 
-Hướng dẫn sử dụng dự án và các chức năng cụ thể.
 
-## Cài Đặt Môi Trường
 
-Chi tiết về các yêu cầu môi trường, phiên bản Python, thư viện và công cụ cần thiết.
+## 5 Luồng dữ liệu
+
+
 
 ## Demo Giao Diện
 

@@ -7,8 +7,6 @@
 1. [Giới Thiệu](#giới-thiệu)
 2. [Thông tin thành viên](#Thông-tin-thành-viên)
 3. [Cách Sử Dụng](#cách-sử-dụng)
-    - [Chức Năng 1](#chức-năng-1)
-    - [Chức Năng 2](#chức-năng-2)
 4. [Cài Đặt Môi Trường](#cài-đặt-môi-trường)
 5. [Đóng Góp](#đóng-góp)
 6. [Bản Quyền và Giấy Phép](#bản-quyền-và-giấy-phép)

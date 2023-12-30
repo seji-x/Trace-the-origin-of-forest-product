@@ -67,9 +67,9 @@
 
 <p align="center">giao diện</p>
 
-### Video demo
+### Video
 
-[Video demo tại đây](https://www.youtube.com/watch?v=rflvMoBPebQ&t=1s)
+[xem Video demo tại đây](https://www.youtube.com/watch?v=rflvMoBPebQ&t=1s)
 
 
 
@@ -188,19 +188,6 @@ if __name__ == "__main__":
 - [Blockchain](https://www.blockchain.com/)
 - [Metamask](https://metamask.io/)
 - [Tutorial](https://www.djangoproject.com/start/)
-  
+- [Python](https://www.python.org/)
 ***
 
-## Mục Lục
-1. [Giới Thiệu](#1-giới-thiệu)
-2. [Thông Tin Thành Viên](#2-thông-tin-thành-viên)
-3. [Demo](#3-demo)
-   - [Hình ảnh](#hình-ảnh)
-   - [Kết nối](#kết-nối)
-   - [Giao Diện](#giao-diện)
-   - [Video Demo](#video-demo)
-4. [Deploy Source Code](#4-deploy-source-code)
-   - [Giao diện](#1-giao-diện)
-   - [Luồng dữ liệu](#2-luồng-dữ-liệu)
-   - [Environment](#3-environment)
-5. [Mục Lục](#mục-lục)

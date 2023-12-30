@@ -38,15 +38,20 @@
   <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a" alt="Trang chủ" width="900">
 </p>
 <p align="center">Trang chủ</p>
+<p align="center">
+  <img src="![image](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/5f145124-46e2-4faa-833e-b1947db23a0b)
+" alt="Trang chủ" width="900">
+</p>
+<p align="center">Trang chủ</p>
 
 [Click here to watch the topic via video](https://www.youtube.com/watch?v=rflvMoBPebQ)
 
 ***
 
 ## 4 Giao diện 
-
 - [Static/App](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/static/app)
-
+- [templates](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/template)
+- 
 
 ## Bản Quyền và Giấy Phép
 

@@ -41,7 +41,7 @@
 <p align="center">Trang chủ</p>
 
 <p align="center">
-  <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/b6e969cc-9080-49c2-9ee1-b66bf04264f2
+  <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/b6e969cc-9080-49c2-9ee1-b66bf04264f2[vvvvvv](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/70fb844d-c0a4-4895-9b75-17df096a77a4)
 " alt="Trang chủ" width="900">
 </p>
 <p align="center">Đăng nhập</p>
@@ -50,10 +50,97 @@
 
 ***
 
-## 4 Giao diện 
+## Deploy source code
+### 1 Giao diện 
 - [Static/App](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/static/app)
 - [templates](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/template)
-- 
+  
+### 2 Luồng dữ liệu
+- [Blockchain_web3](https://github.com/ddryuu/Trace-the-origin-of-forest-product/tree/main/app/blockchain_web3)
+- [Setup Data](https://github.com/ddryuu/Trace-the-origin-of-forest-product/blob/main/app/blockchain_web3/fakedata.py)
+```
+if __name__ == "__main__":
+    account = Account.create()
+    address = account.key.hex()
+    usr = [create_user(0, "cty a", "aaa"), create_user(1, "cty b", "bbb"), create_user(2, "cty c", "ccc")]
+    deposited_actor(usr[1])
+    deposited_actor(usr[2])
+    p1 = create_product(1, "", usr[0], "cay go c", "")
+    t1 = buy_product(p1, 100, usr[1])
+    p2 = create_product(2, t1, usr[1], "tu bep", "")
+    t2 = buy_product(p2, 100, usr[2])
+    p3 = create_product(3, t2, usr[2], "tu bep", "")
+    print(p3)
+
+    data = traceability.get_info_product(p3)
+    for item in data:
+        print(item)
+        print(ProductProvider.convert_data(item[0]), ActorProvider.convert_data_user(item[1]))
+```
+- [Đưa dữ liệu ra Gui](https://github.com/ddryuu/Trace-the-origin-of-forest-product/blob/main/app/template/home.html)
+```
+<div class="container">
+        <div class="row">
+            <!-- Cột lớn 3 chứa ảnh thứ nhất -->
+            {% for product in products %}
+                
+                <div class="col-lg-3">
+                    <div class="thumbnail-container">
+                        <img class="thumbnail" src="{% static 'app/images/gomun.png' %}">
+                        <div class="box-element product">
+                            <h6><strong> {{ product.name }} </strong></h6>
+                            <hr>
+                            {% if product.product_type > 1 %}
+                            <p> gỗ đã qua gia công </p>
+                            {% else %}
+                            <p> gỗ thô</p>
+                            {% endif %}
+                            <a class="btn btn-outline-secondary add-btn " href="traceability/{{ product.id }}">  Tra Cứu</a>
+                            <a class="btn btn-outline-success" href="wood/read/{{ product.id }}">Xem Thông Tin Gỗ</a>
+                            <h2 style="display: inline-block; float: right"><strong> </strong></h2>
+                        </div>
+                        
+                    </div>
+                </div>
+```
+- [Đưa dữ liệu thông tin](https://github.com/ddryuu/Trace-the-origin-of-forest-product/blob/main/app/template/about.html)
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>key</th>
+            <th>infomation</th>
+        </tr>
+        <tr>
+            <td>id</td>
+            <td>{{ product.id }}</td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td>{{ product.product_type }}</td>
+        </tr>
+        <tr>
+            <td>price</td>
+            <td>{{ product.price }}</td>
+        </tr>
+        <tr>
+            <td>owner id</td>
+            <td>{{ product.owner }}</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td>{{ product.name }}</td>
+        </tr>
+    </table>
+</body>
+</html>
+```
 
 ## Bản Quyền và Giấy Phép
 

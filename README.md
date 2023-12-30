@@ -40,8 +40,7 @@ Chi tiết về các yêu cầu môi trường, phiên bản Python, thư viện
 
 ## Demo 
 <p align="center">
-  <img src="![z5024595717183_5df30ef254811615fb610289f224e3f0](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/2a9d3d37-63ca-4456-a10d-e2d80e544c8e)
-" alt="Trang chủ" width="200">
+  <img src="![vc](https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a)" alt="Trang chủ" width="200">
 </p>
 <p align="center">Trang chủ</p>
 

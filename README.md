@@ -23,11 +23,9 @@ Trong một thế giới nơi mà vấn đề về bảo vệ môi trường và
 ### Nguyễn Thái Dương 
    >- **ID:** Mã ID 2051220053
    >- **:** Member - 20CT2
-
 ### Nguyễn Hoàng Linh 
    >- **ID:** Mã ID 2051220165
    >- **Lớp:** Leader - 20CT2
-
 ### Tên Thành Viên 
    >- **ID:** Mã ID 2051220094
    >- **Lớp:** Member - 20CT2

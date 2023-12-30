@@ -39,6 +39,7 @@
   <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/218fdc0e-718e-4f4e-b55a-2e4e932f224a" alt="Trang chủ" width="900">
 </p>
 <p align="center">Trang chủ</p>
+
 <p align="center">
   <img src="https://github.com/ddryuu/Trace-the-origin-of-forest-product/assets/118073917/b6e969cc-9080-49c2-9ee1-b66bf04264f2
 " alt="Trang chủ" width="900">

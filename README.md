@@ -80,7 +80,13 @@
 
 ### Video
 
-[xem Video demo tại đây](https://www.youtube.com/watch?v=rflvMoBPebQ&t=1s)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rflvMoBPebQ&t=1s">
+    <img src="https://wallpapers.com/images/hd/aerial-view-pine-trees-4k-forest-7sfd6znw2ry6hnlt.jpg" width="700" alt="Demo video">
+  </a>
+</p>
+
+
 
 
 

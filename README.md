@@ -37,7 +37,7 @@
 - 2 Lưu trữ và quản lý thông tin
 - 3 Áp dụng công nghệ Blokcchain, bảo mật và minh bạch
 
----
+
 
 
 

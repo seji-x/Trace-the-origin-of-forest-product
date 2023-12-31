@@ -1,20 +1,26 @@
 #  Đồ Án Kết Thúc Học Phần NTO30102 Chuyên đề công nghệ mới !
 
 ***
+
 ## Mục Lục
-1. [Tổng quan](#1-Tổng_quan)
-   - [Giới Thiệu](#Giới_Thiệu)
-   - [Mục đích ](#Mục_đích)
-2. [Thông Tin Thành Viên](#2-thông-tin-thành-viên)
+
+1. [Tổng quan](#1-tổng-quan)
+   - [Giới Thiệu](#giới-thiệu)
+   - [Mục Đích](#mục-đích)
+
+2. [Thông tin thành viên](#2-thông-tin-thành-viên)
+
 3. [Demo](#3-demo)
    - [Hình ảnh](#hình-ảnh)
    - [Kết nối](#kết-nối)
    - [Giao Diện](#giao-diện)
-   - [Video Demo](#video-demo)
-4. [Deploy Source Code](#4-deploy-source-code)
+   - [Video](#video)
+
+4. [Deploy source code](#4-deploy-source-code)
    - [Giao diện](#1-giao-diện)
    - [Luồng dữ liệu](#2-luồng-dữ-liệu)
-   - [Environment](#3-environment)
+   - [Orther](#3-orther)
+   - [Environment](#4-environment)
 
 ***
 

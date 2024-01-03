@@ -1,4 +1,4 @@
-# Học Phần NTO30102 Chuyên đề công nghệ mới !
+# NTO30102 Chuyên đề công nghệ mới !
 
 ***
 

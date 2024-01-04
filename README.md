@@ -11,14 +11,10 @@
 2. [Thông tin thành viên](#2-thông-tin-thành-viên)
 
 3. [Demo](#3-demo)
-   - [Hình ảnh](#hình-ảnh)
-   - [Kết nối](#kết-nối)
    - [Giao Diện](#giao-diện)
    - [Video](#video)
 
 4. [Deploy source code](#4-deploy-source-code)
-   - [Giao diện](#1-giao-diện)
-   - [Luồng dữ liệu](#2-luồng-dữ-liệu)
    - [Orther](#3-orther)
    - [Environment](#4-environment)
 
